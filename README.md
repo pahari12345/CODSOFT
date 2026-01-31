@@ -1,2 +1,2 @@
 # CODSOFT
-Repository for CodSoft Tech Internship Tasks 
+Repository for CodSoft Tech Internship Tasks - Data Science
